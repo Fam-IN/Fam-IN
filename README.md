@@ -6,17 +6,16 @@
 <div align="center">
 ⋆｡°✩ ABOUT ME ✩°｡⋆
 </div> <table> <tr> <td width="55%" valign="top">
-🌷 Hello!
+  Hello!
 
-I'm a Computer Science & Engineering student who loves technology, programming, problem-solving, and creating things that are both useful and creative.
+I'm a Computer Science & Engineering student who loves technology, programming, problem-solving, and creating things that are both useful and creative, I Love Pudding
 
 <br>
 
-🌸 Currently studying: CSE
+🎓 Currently studying: CSE
 💻 Interested in: Software Development
-🧠 Love: Problem Solving & Logical Thinking
-🌱 Learning: New Technologies & Programming
-🎨 Enjoy: Creative Design & Building Projects
+🧠 Love: Pudding & Anime
+🙃 Learning: New Technologies & Programming
 ✨ Passionate about: Coding & Continuous Learning
 🚀 Goal: Grow my skills and build meaningful projects
 
