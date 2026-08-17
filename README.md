@@ -25,7 +25,8 @@ I'm a Computer Science & Engineering student who loves technology, programming, 
 "Learning today, building tomorrow." ✨
 
 </td> <td width="45%" align="center">
-      ╭───────────────╮
+
+      ╭───────────────╮ 
       │   ✦  ♡  ✦     │
       │               │
       │   CODE  💻    │
@@ -36,5 +37,6 @@ I'm a Computer Science & Engineering student who loves technology, programming, 
       │               │
       │   ♡  ✦  ♡     │
       ╰───────────────╯
+
 
 </td> </tr> </table>
