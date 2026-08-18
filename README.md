@@ -5,36 +5,23 @@
 <div align="center">
 ⋆｡°✩ ABOUT ME ✩°｡⋆
 </div> <table> <tr> <td width="55%" valign="top">
-  Hello!
 
-I'm a Computer Science & Engineering student who loves technology, programming, problem-solving, and creating things that are both useful and creative, I Love Pudding
+Hello!<br><br>
 
-<br>
+I'm a Computer Science & Engineering student who loves technology,
+programming, problem-solving, and creating things that are both useful
+and creative. I Love Pudding 🍮<br><br>
 
-🎓 Currently studying: CSE
-💻 Interested in: Software Development
-🧠 Love: Pudding & Anime
-🙃 Learning: New Technologies & Programming
-✨ Passionate about: Coding & Continuous Learning
-🚀 Goal: Grow my skills and build meaningful projects
-
-<br>
+🎓 Currently studying: CSE<br>
+💻 Interested in: Software Development<br>
+🧠 Love: Pudding & Anime<br>
+🙃 Learning: New Technologies & Programming<br>
+✨ Passionate about: Coding & Continuous Learning<br>
+🚀 Goal: Grow my skills and build meaningful projects<br><br>
 
 "Learning today, building tomorrow." ✨
 
-</td> <td width="45%" align="center">
-
-      ╭───────────────╮ 
-      │   ✦  ♡  ✦     │
-      │               │
-      │   CODE  💻    │
-      │      +        │
-      │   CREATE 🎀   │
-      │      +        │
-      │   DREAM  ✨   │
-      │               │
-      │   ♡  ✦  ♡     │
-      ╰───────────────╯
-
-
-</td> </tr> </table>
+</td>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=700&color=8B5CF6&center=true&vCenter=true&width=500&lines=%24+whoami+%3E+Fam_IN;%24+coding...+%F0%9F%92%BB;%24+creating...+%F0%9F%8E%80;%24+dreaming...+%E2%9C%A8;%24+status%3E+ONLINE+%E2%97%8F" />
+</div>
